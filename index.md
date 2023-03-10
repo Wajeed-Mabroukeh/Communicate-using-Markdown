@@ -5,7 +5,10 @@
 To download the code, follow these steps:
 
 ~~~
-$ git clone 
-
+$ git clone https://github.com/Wajeed-Mabroukeh/course-name.git
 
 ~~~
+
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
