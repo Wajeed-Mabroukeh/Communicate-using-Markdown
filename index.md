@@ -5,7 +5,7 @@
 To download the code, follow these steps:
 
 ~~~
-$ git clone https://github.com/Wajeed-Mabroukeh/course-name.git
+$ git clone https://github.com/Wajeed-Mabroukeh/Communicate-using-Markdown.git
 
 ~~~
 
